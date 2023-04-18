@@ -4,4 +4,5 @@ Hello Friend
 Added new line
 2nd line added
 3rd line added
-A commit made in the branch 
+A commit made in the branch
+One more commit made in branch
