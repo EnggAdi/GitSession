@@ -6,3 +6,4 @@ Added new line
 3rd line added
 A commit made in the branch
 One more commit made in branch
+New commit on new branch Adi2
