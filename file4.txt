@@ -1,2 +1,6 @@
 This is Master branch
-change made on master branch
+<<<<<<< HEAD
+
+=======
+This is branch02
+>>>>>>> branch02
